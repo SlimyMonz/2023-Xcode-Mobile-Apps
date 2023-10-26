@@ -1,1 +1,1 @@
-Click into one of the proects to see each project and their individual README. 
+Go into a project folder to see the more comprehensive README file. 
